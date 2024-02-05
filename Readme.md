@@ -32,3 +32,12 @@ This is a database created for the database transactions of a simple bank applic
 
 10. **Jobs:**
     - Jobs (tasks) were created to organize processes for the database.
+
+
+
+### Database Diagram
+
+ ![Calculator Application](/databasediagram.png)
+
+
+ 
