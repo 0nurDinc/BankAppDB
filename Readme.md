@@ -40,4 +40,4 @@ This is a database created for the database transactions of a simple bank applic
  ![Calculator Application](/databasediagram.png)
 
 
- 
+ - SQL (Structured Query Language) is known as a powerful language used for data processing, querying and management in database management systems (RDBMS). In this report, I will share my experience in developing a banking application using SQL language. This experience covers how SQL can be used in real-world applications and the database design, data processing and query processes of banking systems. A detailed study was carried out for database operations via Mssql.
